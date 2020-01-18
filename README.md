@@ -5,4 +5,6 @@ In this manual you wil learn how to make your own server wich is connected with 
 
 ## Making Connection with the Spotify API
 
-1. in order to make a connection with the sotify API you will first need an Spotify account.
+1. in order to make a connection with the sotify API you will need a Spotify account and installed npm.
+2. Go to www.developer.spotify.com go to Dashboards and click "Create a Client ID". Give your new app a name and a description.
+3.
